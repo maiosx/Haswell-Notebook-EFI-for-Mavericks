@@ -6,4 +6,4 @@ Using the bootargs
 
 no compat check allows us to bypass smbios checks to run and install Mavericks 10.9
 
-Only Kext I downgraded was the VoodooPS2 kext 
+Only Kext I downgraded was the VoodooPS2 kext down to the original
