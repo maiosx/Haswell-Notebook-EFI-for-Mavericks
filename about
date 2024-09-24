@@ -4,7 +4,7 @@ https://drive.google.com/drive/folders/1qlO7CIiLt7RQupDN8fneYfSVL1zh6f3Y?usp=sha
 Using the bootargs
 -v -no_compat_check alcid=3 watchdog=0 igfxonln=1 agdpmod=vit9696 -wegnoegpu
 
-no compat check allows us to bypass smbios checks to run and install Mavericks 10.9 which was originally set to MacbookAir6,1
+no compat check allows us to bypass smbios opencore bootloader checks to run and install Mavericks 10.9 which was originally set to MacbookAir6,1
 
 Only Kext I downgraded was the VoodooPS2 kext down to the original found at
 https://github.com/acidanthera/VoodooPS2/releases/tag/2.0.0
