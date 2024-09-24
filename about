@@ -5,3 +5,5 @@ Using the bootargs
 -v -no_compat_check alcid=3 watchdog=0 igfxonln=1 agdpmod=vit9696 -wegnoegpu
 
 no compat check allows us to bypass smbios checks to run and install Mavericks 10.9
+
+Only Kext I downgraded was the VoodooPS2 kext 
