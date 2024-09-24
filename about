@@ -6,7 +6,7 @@ Using the bootargs
 
 no compat check allows us to bypass smbios opencore bootloader checks to run and install Mavericks 10.9 which was originally set to MacbookAir6,1
 
-Only Kext I downgraded was the VoodooPS2 kext down to the original found at
+Only Kext I downgraded was VoodooPS2 down to the original found at
 https://github.com/acidanthera/VoodooPS2/releases/tag/2.0.0
 
 Mavericks USB was created using the install guide found at 
